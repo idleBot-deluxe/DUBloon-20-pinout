@@ -7,5 +7,7 @@ BOM:
 ![pcb](images/DUBloonPCB.jpg)
 
 ![pcbstep2](images/DUBloonStep2.jpg)
+(Wii U Afterglow 3rd party controller)
 
 ![pcbwired](images/DUBloonWired.jpg)
+(Gutted SF TE stick)
